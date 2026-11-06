@@ -1,0 +1,6 @@
+{
+  "name": "Dhanas Photography",
+  "description": "Premium wedding photography, cinematography, candid moments, and timeless storytelling by Dhanas Photography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
